@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1001_Diffuse.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1001_Glossiness.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1001_Normal.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1001_Normal_ncl1_1.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1001_Specular.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1002_Diffuse.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_1002_Diffuse_ncl1_1.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_body.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_hair.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_nonPBR.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Ch31_nonPBR_Skeleton.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/AnimeBS.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/AnimeBP.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Falling_Idle.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Fast_Run.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Idle.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Jump.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Jumping_Down.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ueproject/Walking__1_.uasset"
+			]
+		}
+	]
+}
